@@ -16,7 +16,8 @@ Next, I'll (or at least want to) read:
 - Agrest, A. (2018). **Statistical Methods for the Social Sciences**, 5th Edition. Pearson.
 - Gill, J.; Bao, L. (2024). **Bayesian Social Science Statistics**. Cambridge University Press.
 - Kaplan, D. (2024). **Bayesian Statistics for the Social Sciences**. The Guilford Press.
-- Bishop, C. M.; Bishop, H. (2024). Deep Learning: Foundations and Concepts. Springer. [link](https://www.bishopbook.com/)
+- Bishop, C. M. (2006). **Pattern Recognition and Machine Learning**. Springer. [link](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- Bishop, C. M.; Bishop, H. (2024). **Deep Learning: Foundations and Concepts**. Springer. [link](https://www.bishopbook.com/)
 - Izbicki, R. (2025). **Machine Learning Beyond Point Predictions: Uncertainty Quantitification**. [link](https://rafaelizbicki.com/uq4mlpt/)
 - Gelman, A.; Hill, J., & Vehtari, A. (2020). **Regression and other stories**. Cambridge University Press.
 - McElreath, R. (2020). **Statistical rethinking: A Bayesian course with examples in R and Stan**. Chapman and Hall/CRC.
